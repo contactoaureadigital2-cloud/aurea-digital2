@@ -1,0 +1,26 @@
+AUREA DIGITAL — VERSIÓN PRODUCCIÓN
+
+YA FUNCIONA:
+- Formulario automático -> Google Apps Script -> Gmail
+- Respuesta automática al cliente
+- WhatsApp real: +34 602 65 84 98
+- Botón flotante de WhatsApp
+- Animaciones Lenis + GSAP/ScrollTrigger
+- Cabeceras de seguridad preparadas para Cloudflare Pages
+- CSP para limitar scripts y conexiones
+- Protección anti-iframe, MIME sniffing y permisos sensibles
+
+ARCHIVOS:
+- index.html = web
+- _headers = seguridad para Cloudflare Pages
+
+SIGUIENTE PASO:
+1. Crear un repositorio vacío en GitHub llamado: aurea-digital
+2. Después puedo subir estos archivos desde ChatGPT.
+3. Conectar ese repositorio a Cloudflare Pages.
+4. Añadir dominio real.
+5. Después: Calendar + Meet.
+
+NOTA:
+Ninguna web es 100% "inhackeable". Esta versión reduce superficie de ataque
+y aplica hardening razonable para una landing estática.
