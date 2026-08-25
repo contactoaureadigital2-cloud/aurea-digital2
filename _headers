@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-zQYIu7FOqIQp0lCpDQY6XQ2p44P/8Un/9h/Dx6P5AOY=' 'sha256-80HxvI7f3HcJY2XU7kT2ANNO1R5s0G+2HsIgBR5lW4c=' https://unpkg.com https://cdn.jsdelivr.net; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https:; connect-src 'self' https://script.google.com https://script.googleusercontent.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; media-src 'none'; manifest-src 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-Re+p3bhTc0gRaHjbEZ6MKdRVd+47gVutRMp6UB5dQOg=' 'sha256-ezxwS1sNgm9RNcqYC3eg+w15m9UEDKoGXgvBpUZvo90=' https://unpkg.com https://cdn.jsdelivr.net; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https:; connect-src 'self' https://script.google.com https://script.googleusercontent.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; media-src 'none'; manifest-src 'self'; upgrade-insecure-requests
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
